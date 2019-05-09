@@ -1,0 +1,65 @@
+body {
+	background: #333;
+}
+
+.Login {
+	width: 500px;
+	height: 370px;
+	margin: 120px auto;
+	background: #007AFF;
+}
+
+.Login .Login_main {
+	width: 450px;
+	height: 270px;
+	margin: 50px auto;
+}
+
+.Login .Login_main h4 {
+	font-size: 17px;
+	color: #fff;
+	padding-top: 30px;
+}
+
+form {
+	width: 450px;
+	height: 231px;
+	margin-top: 20px;
+	font-size: 15px;
+	color: #fff;
+}
+
+ul {
+	text-align: center;
+}
+
+ul li {
+	margin-top: 20px;
+}
+
+ul li .Img {
+	margin-left: 90px;
+	width: 230px;
+	height: 40px;
+}
+
+ul li input {
+	width: 230px;
+	height: 20px;
+}
+
+ul li .deng {
+	cursor: pointer;
+	margin-left: -60px;
+	width: 80px;
+	height: 30px;
+	border: none;
+	outline: none;
+	background: #00497d;
+	color: #fff;
+}
+ul li .alert{
+	color: #f60;
+}
+.clearfix .cf{*zoom: 1;}
+.clearfix:after,.cf:after{content: :"";display: block;height: 0;clear: both;visibility: hidden;}
